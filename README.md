@@ -1,6 +1,6 @@
 ### Welcome to github.com/jmartinknoll 👋
 
-  - 🌱 I’m currently learning:
+  - 🌱 I’m currently studying:
     - Binary search trees
     - Alpha-Beta pruning
     - Progressive/Iterative deepening
