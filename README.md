@@ -1,9 +1,9 @@
 ### Welcome to github.com/jmartinknoll 👋
 
   - 🌱 I’m currently learning:
-    - Binary search tree
+    - Binary search trees
     - Alpha-Beta pruning
-    - Progressive/iterative deepening
+    - Progressive/Iterative deepening
 
   - 🔭 I’m currently working on:
     - my personal website using a Raspberry Pi as a server
