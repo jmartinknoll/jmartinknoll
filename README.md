@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to github.com/jmartinknoll 👋
+
+  - 🌱 I’m currently learning:
+    - Binary search tree
+    - Alpha-Beta pruning
+    - Progressive/iterative deepening
+
+  - 🔭 I’m currently working on:
+    - my personal website using a Raspberry Pi as a server
+    - chess AI
 
 <!--
 **jmartinknoll/jmartinknoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
