@@ -1,7 +1,7 @@
 ### Welcome to github.com/jmartinknoll 👋
 
   - 🌱 I’m currently studying:
-    - Binary search trees
+    - Minimax trees
     - Alpha-Beta pruning
     - Progressive/Iterative deepening
 
