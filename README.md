@@ -4,7 +4,7 @@
     - Minimax trees
     - Alpha-Beta pruning
     - Progressive/Iterative deepening
-    - QEMU/KVM
+    - Golang
 
   - 🔭 I’m currently working on:
     - my personal website using a Raspberry Pi as a server
