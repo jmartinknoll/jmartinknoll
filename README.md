@@ -1,10 +1,9 @@
 ### Welcome to github.com/jmartinknoll 👋
 
   - 🌱 I’m currently studying:
-    - Golang
-    - Minimax trees
-    - Alpha-Beta pruning
-    - Progressive/Iterative deepening
+    - React
+    - C#
+    - .NET
     
   - 🔭 I’m currently working on:
     - my personal website using a Raspberry Pi as a server
