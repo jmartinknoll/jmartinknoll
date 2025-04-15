@@ -1,12 +1,11 @@
 ### Welcome to github.com/jmartinknoll 👋
 
   - 🌱 I’m currently studying:
-    - React
-    - C#
-    - .NET
+    - Data Structures & Algorithms
     
   - 🔭 I’m currently working on:
-    - my personal website using a Raspberry Pi as a server
+    - NHL stats api services
+    - personal website
     - chess AI
 
 <!--
